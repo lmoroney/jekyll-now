@@ -5,8 +5,6 @@ title: Horses or Humans CGI Data
 
 Horses or Humans is a dataset of 300×300 images, created by Laurence Moroney, that is licensed CC-By-2.0 for anybody to use in learning or testing computer vision algorithms.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
 Overview
 When learning Computer Vision, in particular the training of DNNs and CNNs to recognize and classify images, there is a dearth of good datasets, and you tend to see the same old datasets again and again.
 
