@@ -20,10 +20,10 @@ The set contains 500 rendered images of various species of horse in various pose
 
 Here are some examples:  
 
-![_config.yml]({{ site.baseurl }}/images/horse03-3.png)
-![_config.yml]({{ site.baseurl }}/images/horse08-5.png)
-![_config.yml]({{ site.baseurl }}/images/human01-16.png)
-![_config.yml]({{ site.baseurl }}/images/human05-09.png)
+![An image of a horse]({{ site.baseurl }}/images/horse03-3.png)
+![An image of a horse]({{ site.baseurl }}/images/horse08-5.png)
+![An image of a human]({{ site.baseurl }}/images/human01-16.png)
+![An image of a human]({{ site.baseurl }}/images/human05-09.png)
 
 **All Images are 300×300 pixels in 24-bit color.**
 
