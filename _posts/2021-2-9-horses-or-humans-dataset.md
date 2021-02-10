@@ -1,5 +1,5 @@
 ---
-layout: 2021 post
+layout: post
 title: Horses or Humans Dataset
 ---
 
